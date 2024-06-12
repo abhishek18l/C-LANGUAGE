@@ -2,6 +2,13 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "type": "java",
+      "name": "powfunc",
+      "request": "launch",
+      "mainClass": "powfunc",
+      "projectName": "C LANGUAGWE_75283c1d"
+    },
+    {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
       "request": "launch",
