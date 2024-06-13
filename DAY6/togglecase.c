@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <ctype.h>
 char* toggleCase(char* text){
-    for(int i = 0 ; text[i] != '\0', i++){
+    for(int i = 0 ; text[i] != '\0'; i++){
         if(islower(text[i])){
             text[i] = toupper(text[i]);
         }else{
